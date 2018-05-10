@@ -1,0 +1,16 @@
+Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
+GvrIgnoreManifestMergeCheck.txt filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Unity[[:space:]]Project[[:space:]](3).sln filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Unity[[:space:]]Project[[:space:]](3).csproj filter=lfs diff=lfs merge=lfs -text
+UnityPackageManager filter=lfs diff=lfs merge=lfs -text
+Whack[[:space:]]a[[:space:]]Mole.sln filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Unity[[:space:]]Project[[:space:]](3).userprefs filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Whack[[:space:]]a[[:space:]]Mole.userprefs filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Unity[[:space:]]Project[[:space:]](3).Editor.csproj filter=lfs diff=lfs merge=lfs -text
